@@ -5,4 +5,4 @@
 - CSS
 - Normalize
 - JQuery
-- Fancybox(JQuery)
+- Fancybox (JQuery)
